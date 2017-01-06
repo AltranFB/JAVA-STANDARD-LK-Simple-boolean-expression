@@ -1,7 +1,11 @@
 public class Solution {
 	
 	public static boolean DoIt(int i, int j) {
-		fail("Not Implemented");
+		// -----------------------
+		//
+		//  INSERT YOUR CODE HERE
+		//
+		// -----------------------
 	}
 
 	public static void main(String[] args) {
