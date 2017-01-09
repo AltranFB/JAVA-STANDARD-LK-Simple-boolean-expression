@@ -1,6 +1,6 @@
 public class Solution {
 	
-	public static boolean DoIt(int i, int j) {
+	public static boolean Test(int i, int j) {
 		// -----------------------
 		//
 		//  INSERT YOUR CODE HERE
